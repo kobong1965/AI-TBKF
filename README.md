@@ -4,7 +4,7 @@ Windows 智能客服控制台，版本 `0.5.0`。客户对话始终留在原客�
 
 ## 下载正式版
 
-在 [GitHub Releases](https://github.com/kobong1965/ai-customer-service/releases/latest) 下载：
+在 [GitHub Releases](https://github.com/kobong1965/AI-TBKF/releases/latest) 下载：
 
 - `AI-Customer-Service-win-x64.zip`：Windows x64 自包含完整程序。
 - `AI-Customer-Service-win-x64.sha256`：完整性校验文件。

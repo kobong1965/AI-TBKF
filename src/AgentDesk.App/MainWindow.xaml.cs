@@ -32,7 +32,7 @@ public partial class MainWindow : Window
             new GitHubUpdateService(
                 new HttpClient { Timeout = TimeSpan.FromMinutes(15) },
                 "kobong1965",
-                "ai-customer-service"));
+                "AI-TBKF"));
         DataContext = _viewModel;
         _viewModel.SecretInputCleared += (_, _) => ApiKeyBox.Clear();
         Loaded += OnLoaded;
